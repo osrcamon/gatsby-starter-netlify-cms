@@ -12,9 +12,10 @@ tags:
   - brewing
   - chemex
 testimonials:
-  - author:
-      name: Otto Von Bismark
+  - author: Otto Von Bismark
     quote: In tea and in love everything is allowed
+  - author: Pope of Rome
+    quote: Tea lifts you above yourself and can take you to Heaven
 galleryImages:
   - /img/products-grid2.jpg
   - /img/products-grid3.jpg

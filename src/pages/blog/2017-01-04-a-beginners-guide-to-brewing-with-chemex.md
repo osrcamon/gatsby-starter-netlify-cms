@@ -11,6 +11,10 @@ featuredimage: /img/chemex.jpg
 tags:
   - brewing
   - chemex
+testimonials:
+  - author:
+      name: Otto Von Bismark
+    quote: In tea and in love everything is allowed
 galleryImages:
   - /img/products-grid2.jpg
   - /img/products-grid3.jpg

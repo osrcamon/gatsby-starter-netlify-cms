@@ -11,11 +11,13 @@ featuredimage: /img/chemex.jpg
 tags:
   - brewing
   - chemex
-testimonials:
-  - author: Otto Von Bismark
-    quote: In tea and in love everything is allowed
-  - author: Pope of Rome
-    quote: Tea lifts you above yourself and can take you to Heaven
+modulars:
+  - masonry:
+      - image: /img/blog-index.jpg
+        title: Traditional coffee machine
+      - image: /img/products-full-width.jpg
+        title: Smells good!
+    tags: These are my modulars
 galleryImages:
   - /img/products-grid2.jpg
   - /img/products-grid3.jpg

@@ -18,6 +18,11 @@ modulars:
       - image: /img/products-full-width.jpg
         title: Smells good!
     title: These are my modulars
+  - masonry:
+      - image: /img/products-grid1.jpg
+        title: Raw grains of coffee
+      - image: /img/products-grid3.jpg
+        title: Filtering it
 galleryImages:
   - /img/products-grid2.jpg
   - /img/products-grid3.jpg

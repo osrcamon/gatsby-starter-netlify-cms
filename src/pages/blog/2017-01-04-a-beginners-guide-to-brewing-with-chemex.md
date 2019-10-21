@@ -17,7 +17,7 @@ modulars:
         title: Traditional coffee machine
       - image: /img/products-full-width.jpg
         title: Smells good!
-    tags: These are my modulars
+    title: These are my modulars
 galleryImages:
   - /img/products-grid2.jpg
   - /img/products-grid3.jpg
